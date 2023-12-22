@@ -41,12 +41,12 @@ function mostrarMensaje () {
     if (hora >= 6 && hora < 12) {
         mensaje = ('Vamos a por todas!!')
     }else if (hora >= 12 && hora < 18) {
-        mensaje = ('Ya queda menos animo!!')
+        mensaje = ('Ya queda menos ánimo!!')
     }else if(hora >= 18 && hora < 24) {
-        mensaje = ('Vete pensando en cenar he irte a sobar');
+        mensaje = ('Vete pensando en cenar e irte a sobar');
 
     }else{
-        mensaje = ('Dulces sueños terricola');
+        mensaje = ('Dulces sueños terrícola');
     }
 
     
