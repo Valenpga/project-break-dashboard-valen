@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://media.istockphoto.com/id/509488176/es/foto/paradise-beach.webp?b=1&s=170667a&w=0&k=20&c=a9PMUCLw79FcaxnA72dz20l3zOTv1JsJNewcbuI4a10='); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .contenido {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
